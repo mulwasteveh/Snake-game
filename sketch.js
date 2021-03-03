@@ -7,7 +7,7 @@ let w;
 let h;
 //set up function
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(401, 401);
   w = floor(width / rez);
   h = floor(height / rez);
   frameRate(5);
